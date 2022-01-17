@@ -41,7 +41,7 @@ Damit ihr den ganzen Zyklus einmal umsetzen könnt, werdet ihr jetzt euren Namen
 10. Klicke rechts auf "Commit". Alle markierten Änderungen wurden nun mit dieser Beschreibung in ein Änderungspaket zusammen gefasst.
 11. Klicke auf "Push". Damit werden alle deine Änderungspakete hochgeladen.
 
-12. Klicke nun auf der rechten Seite im weißen Bereich auf die blaue Fläche "Create Pull Request". Du wirst auf die Website weitergeleitet.
+12. Klicke nun auf der rechten Seite im weißen Bereich auf die blaue Flächse "Create Pull Request". Du wirst auf die Website weitergeleitet.
 13. Ändere den Namen zu "Autor hinzufügen".
 14. Schreibe in den Kommentar, dass du du als neues Mitglied nun deinen Namen der Autoren.txt hinzugefügt hast.
 15. Wähle rechts bei "Reviewers" mind. 2 Mitglieder des Lore-Teams aus, z.B. DDeckert, Medsmiley, miafy oder MineSchokokeks.
@@ -65,7 +65,7 @@ Person     Check
 - Hua      O
 - Nils     O
 - Ismail   O
-- Emerzon  O
+- Emerzon  X
 - Lennart  O
 - Käthe    O
 

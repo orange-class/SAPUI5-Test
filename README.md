@@ -66,7 +66,7 @@ Person     Check
 - Nils     O
 - Ismail   O
 - Emerzon  O
-- Lennart  O
+- Lennart  X
 - Käthe    X
 
 

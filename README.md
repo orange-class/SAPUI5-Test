@@ -60,7 +60,7 @@ Online wird der Branch automatisch gelöscht, wenn er in den master gemerged wur
 
 
 Person     Check
-- Zobhan   O
+- Zobhan   X
 - Devran   O
 - Hua      O
 - Nils     O

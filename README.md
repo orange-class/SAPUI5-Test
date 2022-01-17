@@ -67,7 +67,7 @@ Person     Check
 - Ismail   O
 - Emerzon  O
 - Lennart  O
-- Käthe    O
+- Käthe    X
 
 
 ## Weiterhin

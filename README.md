@@ -64,7 +64,7 @@ Person     Check
 - Devran   X
 - Hua      O
 - Nils     O
-- Ismail   O
+- Ismail   X
 - Emerzon  O
 - Lennart  X
 - Käthe    X

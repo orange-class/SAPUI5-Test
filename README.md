@@ -24,25 +24,22 @@ Kurz:
 
 Damit ihr den ganzen Zyklus einmal umsetzen könnt, werdet ihr jetzt euren Namen in das Dokument mit den Autoren eintragen und online stellen.
 
-1. Klicke auf den mittleren schwarzen Button "Current Branch"
-2. Gib ein: "beispiel/name" (exakt so) und klicke auf "New Branch". 
-Dieser soll auf master basieren, denn du weißt nicht, was andere in ihrem Branch machen und der master ist die aktuellste Version.
-Deshalb erstellst du eine Kopie von master. Du befindest dich nun automatisch im neuen Branch.
+1. Klicke auf "Pull" und hole dir alle neuen Änderungen. Das sollte IMMER gemacht werden, bevor du deine eigene Kopie abspalten willst!
+2. Klicke auf das Plus hinter "Branch" in der Git-Oberfläche in der SAP WEB IDE.
+3. Der Base-Branch muss main sein. "Base" bedeutet, dass du dir diesen einmal kopierst. Dieser soll also auf main basieren, denn du weißt nicht, was andere in ihrem Branch machen und der main ist die aktuellste Version. Deshalb erstellst du eine Kopie von main. 
+4. Gib ein: "beispiel/name" (exakt so, name = euer Name ohne Umlaute). Das ist nun der neue Name der Kopie! Nun klicke auf "OK". Du befindest dich nun automatisch im neuen Branch.
 
-3. Nun klicke auf "Publish branch" in der schwarzen Zeile oben ganz rechts. Dort wird später auch mal "Push" stehen.
-Damit ist dein Branch nun auch offiziell online existent.
+5. Öffne diese Datei hier und scrolle nach unten bis zur Namensliste.
+6. Ändere das "O" hinter deinem Namen zu einem "X" und speichere die Datei.
 
-4. Öffne diese Datei hier.
-5. Schreibe deinen Namen ans Ende der Liste und speichere die Datei.
-6. 
-7. Gehe in GitHub Desktop: es sollte nun auf der linken Seite die geänderte Datei und auf der rechten Seite deine Änderung zu sehen sein.
-8. Sieh zu, dass ein Haken bei "Autoren.txt" drin ist 
+7. In der Git-Oberfläche ist diese Änderung nun in der Liste aufgetaucht. 
+8. Sieh zu, dass in der Spalte "Stage" ein Haken bei "ReadMe.md" drin ist.
 (Alles mit Haken wird im Commit zusammengefasst -> somit kann man genau festlegen, was alles die gleiche Beschreibung bekommt)
-8. Gib neben deinem Profilbild die kurze knackige Beschreibung wie im README gelernt ein, z.B.:
-"FÜGE HINZU: meinen Namen"
-9. Optional: gib einen kurzen Beschreibungstext ein.
-10. Klicke auf die blaue Fläche "Commit to beispiel/name".
-11. Klicke auf "Push". Damit werden deine Änderungen hochgeladen.
+8. Gib unten in der "Commit Description" die kurze knackige Beschreibung wie gelernt ein, z.B.: "UPDATE: mein Name"
+9. Optional: gib einen kurzen Beschreibungstext ein. In dieser Oberfläche geht das beides nur zusammen in ein Feld :(
+
+10. Klicke rechts auf "Commit". Alle markierten Änderungen wurden nun mit dieser Beschreibung in ein Änderungspaket zusammen gefasst.
+11. Klicke auf "Push". Damit werden alle deine Änderungspakete hochgeladen.
 
 12. Klicke nun auf der rechten Seite im weißen Bereich auf die blaue Fläche "Create Pull Request". Du wirst auf die Website weitergeleitet.
 13. Ändere den Namen zu "Autor hinzufügen".

@@ -38,6 +38,14 @@ Mögliche Themen wären dabei "charakter", "quest", "religion", "welt" etc. (Wen
 Ein Beispiel Branch wäre: "charakter/herbertDerSchmied" oder "religion/religionsgebäude".
 Die aktuellen Guidelines findet ihr in der Readme_Guidelines.md.
 
+_Achtung: bevor ihr den Branch wechselt, solltet ihr keine ungespeicherten Änderungen in den Dateien mehr haben!
+Das System funktioniert nun folgendermaßen: je nachdem, welcher Branch hier ausgewählt wurde, ändern sich auch die Dateien im Ordner.
+Es gibt einen versteckten Ordner ".git", in dem all das Nötige dazu gespeichert wird. 
+Hier darfst du **nichts verändern**, sonst funktioniert bei dir nichts mehr, wie es soll. 
+Die weitere versteckte Datei ".gitignore" sorgt übrigens dafür, dass bestimmte Dateien und Ordner nicht abgeglichen werden. 
+Damit werden nur die wichtigen Dateien übertragen und alles, was durch Latex oder durch euer Betriebssystem an z.B. temporären Dateien entsteht bleibt bei euch und stört nicht die anderen. 
+Am Besten: unverändert lassen!
+
 
 ## Commits (= zusammenhängende Einheit an Änderungen)
 

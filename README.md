@@ -61,13 +61,13 @@ Online wird der Branch automatisch gelöscht, wenn er in den master gemerged wur
 
 Person     Check
 - Zobhan   X
-- Devran   O
+- Devran   X
 - Hua      O
 - Nils     O
 - Ismail   O
 - Emerzon  O
-- Lennart  O
-- Käthe    O
+- Lennart  X
+- Käthe    X
 
 
 ## Weiterhin
